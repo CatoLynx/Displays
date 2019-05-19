@@ -1,0 +1,11 @@
+*.pyc
+*.egg-info/
+build/
+dist/
+__pycache__/
+**/Thumbs.db
+*.hex
+setups/wettercom_apikey.py
+setups/weather_phalos/weather_phalos.ini
+test.py
+test_ibis.py
